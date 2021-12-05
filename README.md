@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Goodfrancesco
+- 🖥️ Im a Developer
+- 📖 At the moment I am learning various programming languages
